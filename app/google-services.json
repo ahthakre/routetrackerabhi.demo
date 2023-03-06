@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14783826724",
+    "project_id": "routetrackerabhi",
+    "storage_bucket": "routetrackerabhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14783826724:android:444f0335046954ac94c1b1",
+        "android_client_info": {
+          "package_name": "com.abhishek.routetrackerabhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14783826724-67fou6ipvfg2i467ugsnrg1rmoc3c0sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFVdKt_T3dRUugY2Bsb61a56lnVFDH4F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14783826724-67fou6ipvfg2i467ugsnrg1rmoc3c0sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
